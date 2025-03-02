@@ -9,4 +9,4 @@ Sesiunea de Comunicări Științifice Studențești  2024 - Facultatea de Matema
 - **Algoritmi cuantici** – Studierea unor algoritmi reprezentativi și impactul lor asupra criptografiei și optimizării.  
 - **Tehnologii actuale și perspective viitoare** – Cercetări recente și viitorul calculului cuantic.
 
-**Proiect realizat împreuna cu o echipa formată din doi studeți**
+**Proiect realizat împreuna cu o echipa formată din doi studenți**
