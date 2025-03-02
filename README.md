@@ -7,4 +7,6 @@ Sesiunea de Comunicări Științifice Studențești  2024 - Facultatea de Matema
 - **Hardware-ul calculatoarelor cuantice** – Prezentarea componentelor și provocărilor actuale în dezvoltarea acestora.  
 - **Mașini Turing cuantice** – Compararea modelelor teoretice clasice și cuantice de calcul.  
 - **Algoritmi cuantici** – Studierea unor algoritmi reprezentativi și impactul lor asupra criptografiei și optimizării.  
-- **Tehnologii actuale și perspective viitoare** – Cercetări recente și viitorul calculului cuantic.  
+- **Tehnologii actuale și perspective viitoare** – Cercetări recente și viitorul calculului cuantic.
+
+**Proiect realizat împreuna cu o echipa formată din doi studeți**
